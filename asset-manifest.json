@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/http//Hazzan180.github.io/Calculator/static/css/main.e3f27d83.css",
+    "main.js": "/http//Hazzan180.github.io/Calculator/static/js/main.3e039c84.js",
+    "index.html": "/http//Hazzan180.github.io/Calculator/index.html",
+    "main.e3f27d83.css.map": "/http//Hazzan180.github.io/Calculator/static/css/main.e3f27d83.css.map",
+    "main.3e039c84.js.map": "/http//Hazzan180.github.io/Calculator/static/js/main.3e039c84.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3f27d83.css",
+    "static/js/main.3e039c84.js"
+  ]
+}
